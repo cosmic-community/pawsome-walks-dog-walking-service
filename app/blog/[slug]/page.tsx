@@ -10,7 +10,7 @@ interface BlogPostPageProps {
 
 export async function generateStaticParams() {
   const posts = await getBlogPosts()
-  return posts.map((post) => ({
+  return posts.map((post: BlogPost) => ({
     slug: post.slug,
   }))
 }

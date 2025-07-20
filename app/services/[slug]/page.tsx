@@ -10,7 +10,7 @@ interface ServicePageProps {
 
 export async function generateStaticParams() {
   const services = await getServices()
-  return services.map((service) => ({
+  return services.map((service: Service) => ({
     slug: service.slug,
   }))
 }
