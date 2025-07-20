@@ -1,4 +1,4 @@
-# LFG Cosmic
+# YOOO Nice
 
 ![App Preview](https://imgix.cosmicjs.com/5adc0820-6594-11f0-a051-23c10f41277a-photo-1758228041-f3b2795255f1-1753034827988.jpg?w=1200&h=300&fit=crop&auto=format,compress)
 
