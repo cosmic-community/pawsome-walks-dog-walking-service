@@ -1,4 +1,4 @@
-# Pawsome Dog Walking Service
+# RED Pawsome Dog Walking Service
 
 ![App Preview](https://imgix.cosmicjs.com/5ac12d20-6594-11f0-a051-23c10f41277a-photo-1518717758536-85ae29035b6d-1753034827837.jpg?w=1200&h=300&fit=crop&auto=format,compress)
 
