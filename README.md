@@ -1,6 +1,6 @@
-# YOOO Nice
+# Pawsome Dog Walking Service
 
-![App Preview](https://imgix.cosmicjs.com/5adc0820-6594-11f0-a051-23c10f41277a-photo-1758228041-f3b2795255f1-1753034827988.jpg?w=1200&h=300&fit=crop&auto=format,compress)
+![App Preview](https://imgix.cosmicjs.com/5ac12d20-6594-11f0-a051-23c10f41277a-photo-1518717758536-85ae29035b6d-1753034827837.jpg?w=1200&h=300&fit=crop&auto=format,compress)
 
 A professional dog walking service website built with Next.js and powered by [Cosmic](https://www.cosmicjs.com). Features service listings, team profiles, customer testimonials, and an educational blog about dog care.
 
