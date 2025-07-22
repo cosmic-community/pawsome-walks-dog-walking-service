@@ -37,7 +37,7 @@ export default function Navigation() {
             ))}
             <Link
               href="/contact"
-              className="btn-primary text-sm"
+              className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded-lg transition-colors duration-200 text-sm"
             >
               Get Started
             </Link>
@@ -87,7 +87,7 @@ export default function Navigation() {
           ))}
           <Link
             href="/contact"
-            className="block w-full text-left px-3 py-2 text-primary-600 font-semibold"
+            className="bg-orange-500 hover:bg-orange-600 text-white font-semibold py-2 px-3 rounded-lg transition-colors duration-200 block w-fit mt-2"
             onClick={() => setIsOpen(false)}
           >
             Get Started
